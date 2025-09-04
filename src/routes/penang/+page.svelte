@@ -827,6 +827,7 @@ Mumbai`.split("\n")
 			>
 				Game jam for high schoolers
 			</h3>
+			<h3 class="text-3xl italic font-serif bg-gradient-to-b from-[#487DAB] to-[#3F709A] bg-clip-text text-transparent w-max max-sm:text-xl mx-auto">Free of charge</h3>
 			<img
 				src="underline.svg"
 				alt=""
